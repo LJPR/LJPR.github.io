@@ -4,7 +4,7 @@ View My [Resume](http://LJPR.github.io/resume.html) or [Writing Samples](http://
 
 ### About Me
 
-I am a technical writer that can be technically correct with the best of them. Growing up with computers and parents who thought they were *very* funny people, I learned early that Jersey cows don’t wear jerseys, putting a casserole in the oven only works if you turn it on first- the oven, not the casserole- and that specificity is king. I’m great at navigating edge cases, maintaining existing knowledge bases, and working within style guides.  The first code I ever learned was launching Lemmings 2 Tribes from DOS: `cd lem lem2`. I've made a lot of progress, working with languages ranging from RobotC, C++ and C# to Java, Python and COBOL. Don't tell my dad or he'll try to teach me SAP again. 
+I am a technical writer that can be technically correct with the best of them. Growing up with computers and parents who thought they were *very* funny people, I learned early that Jersey cows don’t wear jerseys, putting a casserole in the oven only works if you turn it on first- the oven, not the casserole- and that specificity is king. I’m great at navigating edge cases, maintaining existing knowledge bases, and working within style guides.  The first code I ever learned was launching Lemmings 2 Tribes from DOS: `cd lem`, `lem2`. I've made a lot of progress, working with languages ranging from RobotC, C++ and C# to Java, Python and COBOL. Don't tell my dad or he'll try to teach me how SAP works again. 
 
 
 ### A Very Short Bibliography: 
