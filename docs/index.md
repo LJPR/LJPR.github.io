@@ -1,6 +1,6 @@
 ### Lidia Pereira Rose
-# Welcome to my online portfolio()
-View My [Resume](https://github.com/LJPR/LJPR.github.io/resume.md) or [Writing Samples](https://github.com/LJPR/LJPR.github.io/samples.md)
+# Welcome to my online portfolio
+View My [Resume](http://LJPR.github.io/resume.html) or [Writing Samples](http://LJPR.github.io/samples.md)
 
 ## About
 
