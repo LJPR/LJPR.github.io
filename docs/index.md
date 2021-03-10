@@ -10,7 +10,7 @@ I am a technical writer who can be technically correct with the best of them. Gr
 ### A Very Short Bibliography: 
 
 
- Actuators and The Power to Do Tasks, CSQ, 2017
+ [Actuators and The Power to Do Tasks, CSQ, 2017](https://cavendishsq.com/title/Actuators-and-the-Power-to-Do-Tasks)
  
  ![image](https://user-images.githubusercontent.com/38336975/110595475-0a958200-814c-11eb-9ee0-196c6bd5312f.png)
 
