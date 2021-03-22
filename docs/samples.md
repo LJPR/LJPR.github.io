@@ -1,5 +1,5 @@
 
-###Past Work Samples
+### Past Work Samples
 
 
 Excerpt: Technical Overview for a Silicon Valley Initiative proposal. 
