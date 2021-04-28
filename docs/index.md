@@ -3,7 +3,7 @@
 
 
 
-### View My [Resume](http://LJPR.github.io/resume.html), [Excerpted Writing Samples,](http://LJPR.github.io/samples.html), or [A Scrapped Educational Script](http://LJPR.github.io/script.html)
+### View My [Resume](http://LJPR.github.io/resume.html), [Excerpted Writing Samples](http://LJPR.github.io/samples.html), or [An Educational Script](http://LJPR.github.io/script.html)
 
 ### About Me
 
